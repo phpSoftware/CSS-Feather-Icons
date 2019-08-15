@@ -3,7 +3,7 @@ CSS Feather Icons
 
 > v4.24.0 (2019-08-08)
 
-__Read [Feather Icons](https://feathericons.com/) 
+__Read [Feather Icons](https://feathericons.com/feather.zip) 
 from the Sub-Folder `feathericons.com` and build
 css from it.__
 
