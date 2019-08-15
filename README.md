@@ -13,7 +13,7 @@ License
 
 Licensed under the MIT License.
 
-The icons that are used in this code are from feathericons.com.
+The icons that are used in this code are from https://feathericons.com.
 
 They are also licensed under the MIT License.
 
