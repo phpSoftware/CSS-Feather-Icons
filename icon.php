@@ -1,8 +1,8 @@
 <?php /* 60 Lines */
 
 // SETTINGS - give it a try and you will see ;-)
-$cssClassOrTagName = '.icon .'; // OR
-#$cssClassOrTagName = 'icon [';
+$cssClassOrTagName = '.icon.'; // OR
+#$cssClassOrTagName = 'icon[';
 $cssClassOrTagEnd  = ''; // OR
 #$cssClassOrTagEnd  = ']';
 
