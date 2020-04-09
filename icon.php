@@ -30,7 +30,7 @@ The icons that are used in this code are from feathericons.com.
 
 They are also licensed under the MIT License.
 
-© 2019 vanGato https://github.com/vanGato/CSS-Feather-Icons
+© 2019 phpSoftware https://github.com/phpSoftware/CSS-Feather-Icons
 
 */
 '.PHP_EOL.rtrim($cssClassOrTagName,'. [').' {
